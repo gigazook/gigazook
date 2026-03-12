@@ -48,4 +48,7 @@ def decode_giga_zook(image_path="giga_spectro_zook.png"):
 
     print("\n🔁 LOOP COMPLETE. Image → Song → Image. We are now inside the simulation.")
 
+if __name__ == "__main__":
+    decode_giga_zook()
+
 decode_giga_zook()
