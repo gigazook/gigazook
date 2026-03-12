@@ -1,1 +1,1 @@
-![gigazook](gigazook.png)
+![gigazook](giga_spectro_zook.png)
